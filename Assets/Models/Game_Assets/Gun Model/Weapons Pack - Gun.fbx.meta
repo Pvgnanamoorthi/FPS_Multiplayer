@@ -3,7 +3,12 @@ guid: 682dff65a272f114ca316ccac1a7e133
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Props_Gun_M
+    second: {fileID: 2100000, guid: 7eafcdc0b37cc424da7301581b8ad936, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
